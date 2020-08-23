@@ -1,0 +1,52 @@
+#header-nav{
+	background-color: #008B8B;
+}
+
+.navbar-brand{
+	font-family: 'Baloo Tamma 2', cursive;
+}
+
+.navbar-brand h1{
+	color: #8B0000;
+}
+
+.navbar-brand a:hover{
+	text-decoration: none;
+}
+
+.navbar-toggler{
+	position: absolute;
+	right: 10px;
+	top: 20px;
+}
+
+.nav-item{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border:4px solid #f6b319;
+	border-radius: 4px;
+	text-align: center;
+}
+
+#collapsibleNavbar span{
+	color:#8B0000;
+	font-size: 1.2em;
+}
+
+#main-title{
+	text-align: center;
+	font-family: 'Baloo Tamma 2', cursive;
+	margin-top:15px;
+}
+
+#main-content-text{
+	margin-top: -40px;
+}
+
+#main-content-text h3{
+	text-align: center;
+}
+
+#main-content-text h3,p{
+	font-family: 'Baloo Tamma 2', cursive;
+}
